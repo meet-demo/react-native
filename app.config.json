@@ -1,0 +1,37 @@
+{
+    "window": {
+        "navigationBarTitleHeight": 40,
+        "navigationBarBackgroundColor": "#1b82d2",
+        "navigationBarTitleText": "这是一个标题栏",
+        "navigationBarTextStyle": "white"
+    },
+    "tabBar": {
+        "list": [{
+                "pagePath": "",
+                "text": "首页",
+                "iconPath": "",
+                "selectedIconPath": ""
+            },
+            {
+                "pagePath": "",
+                "text": "发现",
+                "iconPath": "",
+                "selectedIconPath": ""
+            },
+            {
+                "pagePath": "",
+                "text": "购物车",
+                "iconPath": "",
+                "selectedIconPath": ""
+            },
+            {
+                "pagePath": "",
+                "text": "我的",
+                "iconPath": "",
+                "selectedIconPath": ""
+            }
+        ],
+        "position": "bottom"
+
+    }
+}
